@@ -8,7 +8,7 @@
     {
       "name": "IP Geo Location API",
       "description": "API provides information about the location of the IP address. It includes country, city, area, currency, timezone, asn, location and security data.",
-      "image": "https://github.com/natkapral/ip-web/blob/main/api.json",
+      "image": "https://rapidapi-prod-apis.s3.amazonaws.com/52/6c1740354211e994a3c7dbaed426e4/6c4a84853b826b48a70db245145cfb09.png",
       "baseURL": "https://getgeoapi.com",
       "humanURL": "https://getgeoapi.com",
       "properties": [],
